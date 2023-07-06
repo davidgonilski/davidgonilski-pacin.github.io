@@ -14,6 +14,5 @@ output:
   postcards::trestles
 ---
 
-I am a classically trained data scientist living in Buenos Aires, Argentina. 
-Currently I work on Instituto of Buenos Aires. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am Molecular Biologist graduated in Buenos Aires University (UBA), Argentina. 
+Currently I work on the Biomedicine Institute of Buenos Aires. I love soccer, Messi and the mate. 
