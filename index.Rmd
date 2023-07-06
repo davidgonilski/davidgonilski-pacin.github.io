@@ -3,13 +3,13 @@ title: "David Gonilski-Pacin"
 image: "tobi.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/david-gonilski-813790267/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/gonilski"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/davidgonilski"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:davidgonilski@gmail.com"
 output:
   postcards::jolla
 ---
