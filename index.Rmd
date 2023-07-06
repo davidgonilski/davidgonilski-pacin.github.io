@@ -1,6 +1,6 @@
 ---
 title: "David Gonilski-Pacin"
-image: "tobi.jpg"
+image: "Imagen1.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/david-gonilski-813790267/"
@@ -11,9 +11,9 @@ links:
   - label: Email
     url: "mailto:davidgonilski@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+I am a classically trained data scientist living in Buenos Aires, Argentina. 
+Currently I work on Instituto of Buenos Aires. I love talking about baseball, 
 true crime podcasts, and causal inference.
