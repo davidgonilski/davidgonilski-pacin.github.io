@@ -10,9 +10,54 @@ links:
     url: "https://github.com/davidgonilski"
   - label: Email
     url: "mailto:davidgonilski@gmail.com"
+  - label: Google scholar
+    url: "https://scholar.google.com/citations?user=CTalvwoAAAAJ&hl=en&oi=ao"
 output:
   postcards::trestles
 ---
 
+## Bio
+
 I am Molecular Biologist graduated in Buenos Aires University (UBA), Argentina. 
-Currently I work on the Biomedicine Institute of Buenos Aires. I love soccer, Messi and the mate. 
+Currently I work on the [Biomedicine Institute of Buenos Aires](http://ibioba-mpsp-conicet.gov.ar/index.php/en/).
+
+## Education
+
+2019-present: PhD Student, Department of Physiology, Molecular and Cellular Biology, School of Exact and Natural Sciences, University of Buenos Aires. Project title: “Search for new targets of RSUME action in the progression of RCCtype VHL tumors.”. Supervisor: Dr. Prof. Eduardo Arzt. | F
+
+Selection of PhD courses taken (final grade): 
+•	Functional Genomics, School of Exact and Natural Sciences, University of Buenos Aires. (10/10).
+•	Biological Instrumentation, School of Exact and Natural Sciences, University of Buenos Aires. (9/10).
+•	Python programming course. School of Science and Technology, University of San Martín (UNSAM). (9/10). 
+•	Advanced Topics in RNA Cell Biology, School of Exact and Natural Sciences, University of Buenos Aires. (10/10). 
+2012-2019: Licenciatura (seven-year degree equivalent to Bachelor and Master combined) in Biological Sciences, School of Exact and Natural Sciences, University of Buenos Aires (Final Grade Point Average: 8.72/10). Thesis/Dissertation: “Functional and molecular characterization of the interaction of RSUME and mutants typical of VHL disease and its implications for VEGF overexpression and tumor vascularization” (grade: 10/10). 
+Selection of elective courses taken (final grade):  
+•	Molecular Biology (10/10) 
+•	Genetic Engineering (8/10) 
+•	Introduction to Molecular Physiology (10/10) 
+•	Biological Chemistry II A (9/10) 
+•	Industrial Biotechnology and Applied Microbiology (10/10) 
+2007-2011: High School Degree - Carlos Pellegrini High School of Commerce, University of Buenos Aires - Specialization degree in commerce. 
+
+2021-present: Teaching as chief of practical applications, University of Jose C. Paz (paid position). Courses taught: Biostatistics and Demography, Microbiology and Parasitology.
+2019-2021: Teaching assistant, Department of Biological Chemistry, School of Exact and Natural Sciences, University of Buenos Aires (paid position obtained through public contest). Courses taught: Introduction to Molecular Bioinformatics, Biological Chemistry. 
+2019-2020: Teaching assistant, Department of Physiology and Molecular and Cell Biology, School of Exact and Natural Sciences, University of Buenos Aires (paid position obtained through public contest). Courses taught: Genetics I. 
+
+## Works
+
+I was a professor of [Biostatistics]() and [Oncology]() at the [Johns Hopkins Bloomberg School of Public Health]()
+
+## Works
+
+These are some works i have been involved in:
+
+**[Expression of RSUME is Associated With Poor Prognosis in Clear Cell Renal Carcinoma: Involvement of ROS Related Metabolism](https://www.sciencedirect.com/science/article/pii/S1558767323000678?casa_token=3_WXMMbAo9EAAAAA:CrOUVzqr_Flu8_l4UI54mkudacVHV5ObrPX6JgVrX8FsNmlmWYtXxiUrmKsxuKlQTo293Dnp-A)** | David Gonilski Pacin, Nicolás Ciancio del Giudice, Belén Elguero, Eduardo Arzt. Clinical Genitourinary Cancer (2023)
+
+**[Impact of RSUME Actions on Biomolecular Modifications in Physio-Pathological Processes](https://www.frontiersin.org/articles/10.3389/fendo.2022.864780/full)** | Mariana Fuertes, Belén Elguero, David Gonilski-Pacin, ..., Eduardo Arzt “Impact of RSUME Actions on Biomolecular Modifications in Physio-Pathological Processes”. Review article in Frontiers in Endocrinology (2022).
+
+**[von Hippel-Lindau mutants in renal cell carcinoma are regulated by increased expression of RSUME](https://www.nature.com/articles/s41419-019-1507-3)** | Lucas Tedesco, Belen Elguero, David Gonilski Pacin, ..., Eduardo Arzt. “von Hippel-Lindau mutants in renal cell carcinoma are regulated by increased expression of RSUME”. Cell Death & Disease (2019)
+
+**[Mass Spectrometry-Based Metabolic Fingerprinting Contributes to Unveil the Role of RSUME in Renal Cell Carcinoma Cell Metabolism](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.0c00655)** | Manuela Martinefski, Belen Elguero, María Knott, David Gonilski Pacin, ..., Eduardo Arzt, María Eugenia Monge. Journal of Proteome Research (2021).
+
+## Interests
+ I love soccer, Messi and the mate. 
