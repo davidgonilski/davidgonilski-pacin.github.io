@@ -7,3 +7,4 @@ usethis::use_github()
 ## Choose only one of these options, whichever you liked the most
 postcards::create_postcard(template = "jolla")
 library(usethis)
+library(fontawesome)
