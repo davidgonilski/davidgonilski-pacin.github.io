@@ -31,12 +31,12 @@ pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
 
 ## <span style="color:  #63D4FD;"> Bio</span>
 <br>
-  I am Molecular Biologist PhD Student at the Buenos Aires University (UBA), Argentina working in the [Biomedicine Institute of Buenos Aires](http://ibioba-mpsp-conicet.gov.ar/index.php/en/). I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive kidney cancer.
+  I am Molecular Biologist PhD Student at the [Buenos Aires University (UBA)](https://www.uba.ar/internacionales/index.php?lang=en), Argentina working in the [Biomedicine Institute of Buenos Aires](http://ibioba-mpsp-conicet.gov.ar/index.php/en/). I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive kidney cancer.
 
 ---
 
 ## <span style="color:  #63D4FD;"> Research</span>
-The main aim of my studies is to understand the mechanisms behind tumorigenesis and improve cancer treatments. Under the guidance of Eduardo Arzt at the Laboratory of Molecular Targeting, I conducted research on the role of RSUME in tumorigenesis, specifically in angiogenesis and vascularization. I focus on the RSUME oncogene's involvement in the development of Von Hippel Lindau tumors. I have analyzed genomic datasets and performed wet lab experiments to support my findings.
+The main aim of my study is to understand the mechanisms behind tumorigenesis and improve treatments in kidney cancer. I focus on the RSUME oncogene's involvement in the development of Von Hippel Lindau tumors. I analyze genomic and transcriptomic datasets and perform wet lab experiments to support my findings.
 
 ---
 
@@ -60,19 +60,16 @@ The main aim of my studies is to understand the mechanisms behind tumorigenesis 
 |  |  |
 |:------------------------------------------------|:--------------------|
 | `r fontawesome::fa("flask", fill = "#AFE9FE")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#AFE9FE")` **Bioinformatic** |
-| Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` |
-| Immunofluorescent Staining | RNA-seq analysis|
-| Angiogenesis and Tumorigenesis assays |
-| Confocal and Widefield Microscopy | bulkRNA-seq |
-| RNA Isolation and cDNA Synthesis | FIJI |
+| Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` and Bioconductor|
+| Immunofluorescent Staining | Python `r fontawesome::fa("python", fill = "gray")`|
+| Angiogenesis and Tumorigenesis assays | FIJI |
+| Confocal and Widefield Microscopy | Microarray analysis |
+| RNA Isolation and cDNA Synthesis | RNA-seq analysis|
 | PCR and Western blot |
 
 ---
 
 ## <span style="color:  #63D4FD;"> Teaching</span>
-
-
-2019-2021: Teaching assistant, University of Buenos Aires. Courses taught: Introduction to Molecular Bioinformatics, Biological Chemistry, Genetics I.
 
 |  |  |
 |:--------------------------------------------------|:----------------|
@@ -85,8 +82,6 @@ The main aim of my studies is to understand the mechanisms behind tumorigenesis 
 ---
 
 ## <span style="color:  #63D4FD;"> Published Works</span>
-
-These are some works i have been involved in:
 
 **[Expression of RSUME is Associated With Poor Prognosis in Clear Cell Renal Carcinoma: Involvement of ROS Related Metabolism](https://www.sciencedirect.com/science/article/pii/S1558767323000678?casa_token=3_WXMMbAo9EAAAAA:CrOUVzqr_Flu8_l4UI54mkudacVHV5ObrPX6JgVrX8FsNmlmWYtXxiUrmKsxuKlQTo293Dnp-A)** | David Gonilski Pacin, Nicolás Ciancio del Giudice, Belén Elguero, Eduardo Arzt. Clinical Genitourinary Cancer (2023)
 
