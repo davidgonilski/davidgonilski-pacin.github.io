@@ -12,7 +12,7 @@ The main aim of my study is to understand the mechanisms behind tumorigenesis an
 ## <span style="color:  #63D4FD;"> Education</span>
 
 |  |  |
-
+|:--------------------------------------------------|:----------------|
 | **<span style="color:  #63D4FD;"> University of Buenos Aires, Argentina</span>** | [2019 - Present] |
 | Ph.D. in Kidney Cancer Biology |
 |<br>|   |
@@ -27,7 +27,7 @@ The main aim of my study is to understand the mechanisms behind tumorigenesis an
 ## <span style="color:  #63D4FD;"> Technical Skills</span>
   
 |  |  |
-
+|:--------------------------------------------------|:----------------|
 | **Experimental**  |  **Bioinformatic** |
 | Cell Culture | R and Bioconductor|
 | Immunofluorescent Staining | Python |
@@ -41,7 +41,7 @@ The main aim of my study is to understand the mechanisms behind tumorigenesis an
 ## <span style="color:  #63D4FD;"> Teaching</span>
 
 |  |  |
-
+|:--------------------------------------------------|:----------------|
 | **<span style="color:  #63D4FD;"> University of Jose C. Paz, Argentina</span>** | [2021-present]{style="float:right"} |
 | Teaching as chief of practical applications, University of Jose C. Paz. Courses taught: Biostatistics and Demography, Microbiology and Parasitology. |
 |<br>|   |
