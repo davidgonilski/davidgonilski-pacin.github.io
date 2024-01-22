@@ -1,34 +1,3 @@
----
-title: "David Gonilski-Pacin"
-image: "Pres.jpg"
-links:
-  - label: '`r fontawesome::fa("envelope", fill = "#63D4FD")` Email'
-    url: "mailto:davidgonilski@gmail.com"
-  - label: '`r fontawesome::fa("graduation-cap", fill = "#63D4FD")` CV'
-    url: "https://docs.google.com/document/d/1t_i3P6xb81FLVFwurOVNGD3J0oip1H1o/edit?usp=drive_link&ouid=107879891917327084698&rtpof=true&sd=true"
-  - label: '`r fontawesome::fa("twitter", fill = "#63D4FD")` Twitter'
-    url: "https://twitter.com/gonilski"
-  - label: '`r fontawesome::fa("linkedin", fill = "#63D4FD")` LinkedIn'
-    url: "https://www.linkedin.com/in/david-gonilski-813790267/"
-  - label: '`r fontawesome::fa("github-square", fill = "#63D4FD")` GitHub'
-    url: "https://github.com/davidgonilski"
-output:
-  postcards::trestles
----
-  
-```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
-library(fontawesome)
-
-pal1 = "#63D4FD" # pale azure
-pal4 = "#AFE9FE" # non-photo blue, 20% lighter
-pal6 = "#40B8E0" # 20% darker
-pal2 = "#EA7E5D" # burnt sienna
-pal3 = "#EC8C6F" # coral
-pal5 = "#8C1721" # carmine
-pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
-
-```
-
 ## <span style="color:  #63D4FD;"> Bio</span>
 <br>
   I am Molecular Biologist PhD Student at the [Buenos Aires University (UBA)](https://www.uba.ar/internacionales/index.php?lang=en), Argentina working in the [Biomedicine Institute of Buenos Aires](http://ibioba-mpsp-conicet.gov.ar/index.php/en/). I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive kidney cancer.
@@ -43,14 +12,14 @@ The main aim of my study is to understand the mechanisms behind tumorigenesis an
 ## <span style="color:  #63D4FD;"> Education</span>
 
 |  |  |
-|:--------------------------------------------------|:----------------|
-| **<span style="color:  #63D4FD;"> University of Buenos Aires, Argentina</span>** | [2019 - Present]{style="float:right"} |
+
+| **<span style="color:  #63D4FD;"> University of Buenos Aires, Argentina</span>** | [2019 - Present] |
 | Ph.D. in Kidney Cancer Biology |
 |<br>|   |
-| **<span style="color:  #63D4FD;"> Cold Spring Harbor Laboratory, New York</span>**| [July 2023]{style="float:right"} |
+| **<span style="color:  #63D4FD;"> Cold Spring Harbor Laboratory, New York</span>**| [July 2023] |
 | Statistical Analysis of Genome Scale Data |
 |<br>|   |
-| **<span style="color:  #63D4FD;"> University of Buenos Aires, Argentina</span>** | [2012 - 2019]{style="float:right"} |
+| **<span style="color:  #63D4FD;"> University of Buenos Aires, Argentina</span>** | [2012 - 2019] |
 | Licenciatura (seven-year degree equivalent to Bachelor and Master combined) in Biological Sciences ||
   
 ---
@@ -58,10 +27,10 @@ The main aim of my study is to understand the mechanisms behind tumorigenesis an
 ## <span style="color:  #63D4FD;"> Technical Skills</span>
   
 |  |  |
-|:------------------------------------------------|:--------------------|
-| `r fontawesome::fa("flask", fill = "#AFE9FE")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#AFE9FE")` **Bioinformatic** |
-| Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` and Bioconductor|
-| Immunofluorescent Staining | Python `r fontawesome::fa("python", fill = "gray")`|
+
+| **Experimental**  |  **Bioinformatic** |
+| Cell Culture | R and Bioconductor|
+| Immunofluorescent Staining | Python |
 | Angiogenesis and Tumorigenesis assays | FIJI |
 | Confocal and Widefield Microscopy | Microarray analysis |
 | RNA Isolation and cDNA Synthesis | RNA-seq analysis|
@@ -72,7 +41,7 @@ The main aim of my study is to understand the mechanisms behind tumorigenesis an
 ## <span style="color:  #63D4FD;"> Teaching</span>
 
 |  |  |
-|:--------------------------------------------------|:----------------|
+
 | **<span style="color:  #63D4FD;"> University of Jose C. Paz, Argentina</span>** | [2021-present]{style="float:right"} |
 | Teaching as chief of practical applications, University of Jose C. Paz. Courses taught: Biostatistics and Demography, Microbiology and Parasitology. |
 |<br>|   |
