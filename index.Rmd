@@ -44,7 +44,7 @@ The main aim of my study is to understand the mechanisms behind tumorigenesis an
 
 |  |  |
 |:--------------------------------------------------|:----------------|
-| **<span style="color:  #63D4FD;"> University of Buenos Aires, Argentina</span>** | [2019 - Present]{style="float:right"} |
+| **<span style="color:  #63D4FD;"> University of Buenos Aires, Argentina</span>** | [2019 - Present]|
 | Ph.D. in Kidney Cancer Biology |
 |<br>|   |
 | **<span style="color:  #63D4FD;"> Cold Spring Harbor Laboratory, New York</span>**| [July 2023]{style="float:right"} |
